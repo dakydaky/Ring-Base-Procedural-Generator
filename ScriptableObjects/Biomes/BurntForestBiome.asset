@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef24c12448957444a90b69c41910dd1, type: 3}
+  m_Name: BurntForestBiome
+  m_EditorClassIdentifier: 
+  requiredPuzzles: 02000000
+  numAdditionalStructures: 0
+  groundTexture: {fileID: 589016522967090788, guid: e98393d43fdcf984ab906f1ba80aa254, type: 3}
+  biomeType: 5
+  rockFreq: 25
+  treeFreq: 43
+  grassFreq: 10
+  bushFreq: 5
+  logFreq: 1
+  nothingFreq: 16
+  healthyTreeFreq: 15
+  deadTreeFreq: 60
+  treeStumpFreq: 25

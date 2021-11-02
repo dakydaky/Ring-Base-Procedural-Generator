@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef24c12448957444a90b69c41910dd1, type: 3}
+  m_Name: SnowyForestBiome
+  m_EditorClassIdentifier: 
+  requiredPuzzles: 03000000
+  numAdditionalStructures: 0
+  groundTexture: {fileID: 946298588002874315, guid: 993fa4ea45617194086140efa8789c32, type: 3}
+  biomeType: 3
+  rockFreq: 12
+  treeFreq: 65
+  grassFreq: 10
+  bushFreq: 5
+  logFreq: 3
+  nothingFreq: 5
+  healthyTreeFreq: 75
+  deadTreeFreq: 15
+  treeStumpFreq: 10
